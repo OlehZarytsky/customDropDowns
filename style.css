@@ -9,7 +9,7 @@
     top:40%;
 }
 
-.drop-down .selected span{
+.drop-down .selected {
     background:#fff no-repeat scroll right center;
     display:block;
     padding-right:20px;
@@ -20,7 +20,7 @@
     color:#3179ac;
 }
 
-.drop-down .selected a span{
+.drop-down .selected {
     cursor:pointer;
     display:block;
     padding:5px;
